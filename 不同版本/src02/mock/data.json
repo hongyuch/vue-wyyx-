@@ -1,0 +1,542 @@
+{
+  "kingkongs": [
+    {
+      "title":"新品首发",
+      "image": "https://yanxuan.nosdn.127.net/c6fd8835a6400b7da7a016ad85506b69.png"
+    },
+    {
+      "title": "居家生活",
+      "image": "https://yanxuan.nosdn.127.net/fede8b110c502ec5799702d5ec824792.png"
+    },
+    {
+      "title": "服饰鞋包",
+      "image": "https://yanxuan.nosdn.127.net/896a3beac514ae8f40aafe028e5fec56.png"
+    },
+    {
+      "title": "美食酒水",
+      "image": "https://yanxuan.nosdn.127.net/37520d1204a0c55474021b43dac2a69e.png"
+    },
+    {
+      "title": "个护清洁",
+      "image": "https://yanxuan.nosdn.127.net/6c3bd9d885c818b1f73e497335a68b47.png"
+    },
+    {
+      "title": "母婴亲子",
+      "image": "https://yanxuan.nosdn.127.net/559d2a240ec20b096590a902217009ff.png"
+    },
+    {
+      "title": "运动旅行",
+      "image": "https://yanxuan.nosdn.127.net/5c088559ebcc3f0ffcda663f04dfbeb2.png"
+    },
+    {
+      "title": "数码家电",
+      "image": "https://yanxuan.nosdn.127.net/fbca8e1f2948f0c09fc7672c2c125384.png"
+    },
+    {
+      "title": "全球特色",
+      "image": "https://yanxuan.nosdn.127.net/f7281169d4e82d5d8d52aa1fec83fe01.png"
+    },
+    {
+      "title": "好货抄底",
+      "image": "https://yanxuan.nosdn.127.net/12e8efd15b9b210ab156a7ee9b340548.gif"
+    }
+  ],
+  "shopGuides":[
+    {
+      "title": "9.9超值专区",
+      "desc": "190款商品定价直降",
+      "image1":"https://yanxuan-item.nosdn.127.net/b2065eab67acc5923a8ec71167a35f6a.png?imageView&thumbnail=150x150&quality=75",
+      "image2": "https://yanxuan-item.nosdn.127.net/569ab2c87df93c56de39b8c890463242.png?imageView&thumbnail=150x150&quality=75"
+    },
+    {
+      "title": "50元内好物",
+      "desc": "买到生活小确幸",
+      "image1": "https://yanxuan-item.nosdn.127.net/1eecf74b769af3ed4c7817aeb5d6bb2b.png?imageView&thumbnail=150x150&quality=75",
+      "image2": "https://yanxuan-item.nosdn.127.net/f8ab1da43385ce39549272c1571f6397.png?imageView&thumbnail=150x150&quality=75"
+    },
+    {
+      "title": "断货补单王",
+      "desc": "严选必买爆款",
+      "image1": "https://yanxuan-item.nosdn.127.net/b097972db0ed9d5b47fbed0e2dbd1d99.png?imageView&thumbnail=150x150&quality=75",
+      "image2": "https://yanxuan-item.nosdn.127.net/5e818e36e0cfd0bb474c57f27e76b46d.png?imageView&thumbnail=150x150&quality=75"
+    },
+    {
+      "title": "家装换季",
+      "desc": "夏去秋来床品家装都翻新",
+      "image1":"https://yanxuan-item.nosdn.127.net/9a33f08a3b0f5c06fdf4c586d51b2f7c.png?imageView&thumbnail=150x150&quality=75",
+      "image2":"https://yanxuan-item.nosdn.127.net/a5b76d65fa4f9cecba601f954306a34b.png?imageView&thumbnail=150x150&quality=75"
+    }
+  ],
+  "categorys": [
+    {
+      "name": "推荐专区",
+      "subCateList": [
+        {
+          "title": "明星商品",
+          "image": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "精选美食",
+          "image": "https://yanxuan.nosdn.127.net/a91deb0e8592ea6c5e402d71eadc6a64.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "男装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/3e52cf9e7db8ff6eb442b83043ae44ce.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "员工精选好货",
+          "image": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "女装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/fcbe22542c091f31d6a22a7e921edc8f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "秋季换新好物",
+          "image": "https://yanxuan.nosdn.127.net/c64660221bf28ededa6ba330dc5ddbf5.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "50元幸福好物",
+          "image": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "家装好物推荐",
+          "image": "https://yanxuan.nosdn.127.net/33fbf26f90d8b8a470cfe4fcfc2f5fe8.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "999+好评",
+          "image": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    },
+    {
+      "name": "换季专区",
+      "subCateList": [{
+          "title": "滋补美食",
+          "image": "https://yanxuan.nosdn.127.net/15a0f224de139e533a01d61dade82f5f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "精选美食",
+          "image": "https://yanxuan.nosdn.127.net/a91deb0e8592ea6c5e402d71eadc6a64.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "男装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/3e52cf9e7db8ff6eb442b83043ae44ce.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "员工精选好货",
+          "image": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "女装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/fcbe22542c091f31d6a22a7e921edc8f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "秋季换新好物",
+          "image": "https://yanxuan.nosdn.127.net/c64660221bf28ededa6ba330dc5ddbf5.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "50元幸福好物",
+          "image": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "家装好物推荐",
+          "image": "https://yanxuan.nosdn.127.net/33fbf26f90d8b8a470cfe4fcfc2f5fe8.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "999+好评",
+          "image": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    },
+    {
+      "name": "爆品专区",
+      "subCateList": [{
+          "title": "明星商品",
+          "image": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "精选美食",
+          "image": "https://yanxuan.nosdn.127.net/a91deb0e8592ea6c5e402d71eadc6a64.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "男装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/3e52cf9e7db8ff6eb442b83043ae44ce.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "员工精选好货",
+          "image": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "女装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/fcbe22542c091f31d6a22a7e921edc8f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "秋季换新好物",
+          "image": "https://yanxuan.nosdn.127.net/c64660221bf28ededa6ba330dc5ddbf5.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "50元幸福好物",
+          "image": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "家装好物推荐",
+          "image": "https://yanxuan.nosdn.127.net/33fbf26f90d8b8a470cfe4fcfc2f5fe8.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "999+好评",
+          "image": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    },
+    {
+      "name": "新品专区",
+      "subCateList": [
+        {
+          "title": "居家生活新品",
+          "image": "https://yanxuan-item.nosdn.127.net/6b1f7d38b92d931766e2a36e79abcfc6.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "服饰鞋包新品",
+          "image": "https://yanxuan-item.nosdn.127.net/c76d77c9c3c7646c060583a618d2bf3b.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "美食酒水新品",
+          "image": "https://yanxuan-item.nosdn.127.net/5a9a795e89f788c2a7b6939a7a61e994.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "个护清洁新品",
+          "image": "https://yanxuan-item.nosdn.127.net/2c2f14d521813d827e57b2513ca5b096.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "运动旅行新品",
+          "image": "https://yanxuan-item.nosdn.127.net/a141a036aabbce3c00f2222e66203826.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "母婴亲子新品",
+          "image": "https://yanxuan-item.nosdn.127.net/c0c0000d33807d1a1852924232c6124a.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "数码家电新品",
+          "image": "https://yanxuan-item.nosdn.127.net/81158d6f8fc9df0c04b1ddd229c3f503.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "全球特色新品",
+          "image": "https://yanxuan-item.nosdn.127.net/89b1318c37d97bd838fade6964edcde9.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    },
+    {
+      "name": "推荐专区",
+      "subCateList": [{
+          "title": "明星商品",
+          "image": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "精选美食",
+          "image": "https://yanxuan.nosdn.127.net/a91deb0e8592ea6c5e402d71eadc6a64.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "男装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/3e52cf9e7db8ff6eb442b83043ae44ce.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "员工精选好货",
+          "image": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "女装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/fcbe22542c091f31d6a22a7e921edc8f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "秋季换新好物",
+          "image": "https://yanxuan.nosdn.127.net/c64660221bf28ededa6ba330dc5ddbf5.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "50元幸福好物",
+          "image": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "家装好物推荐",
+          "image": "https://yanxuan.nosdn.127.net/33fbf26f90d8b8a470cfe4fcfc2f5fe8.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "999+好评",
+          "image": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    }, 
+    {
+      "name": "换季专区",
+      "subCateList": [{
+          "title": "滋补美食",
+          "image": "https://yanxuan.nosdn.127.net/15a0f224de139e533a01d61dade82f5f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "精选美食",
+          "image": "https://yanxuan.nosdn.127.net/a91deb0e8592ea6c5e402d71eadc6a64.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "男装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/3e52cf9e7db8ff6eb442b83043ae44ce.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "员工精选好货",
+          "image": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "女装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/fcbe22542c091f31d6a22a7e921edc8f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "秋季换新好物",
+          "image": "https://yanxuan.nosdn.127.net/c64660221bf28ededa6ba330dc5ddbf5.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "50元幸福好物",
+          "image": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "家装好物推荐",
+          "image": "https://yanxuan.nosdn.127.net/33fbf26f90d8b8a470cfe4fcfc2f5fe8.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "999+好评",
+          "image": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    }, 
+    {
+      "name": "爆品专区",
+      "subCateList": [{
+          "title": "明星商品",
+          "image": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "精选美食",
+          "image": "https://yanxuan.nosdn.127.net/a91deb0e8592ea6c5e402d71eadc6a64.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "男装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/3e52cf9e7db8ff6eb442b83043ae44ce.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "员工精选好货",
+          "image": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "女装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/fcbe22542c091f31d6a22a7e921edc8f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "秋季换新好物",
+          "image": "https://yanxuan.nosdn.127.net/c64660221bf28ededa6ba330dc5ddbf5.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "50元幸福好物",
+          "image": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "家装好物推荐",
+          "image": "https://yanxuan.nosdn.127.net/33fbf26f90d8b8a470cfe4fcfc2f5fe8.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "999+好评",
+          "image": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    }, 
+    {
+      "name": "新品专区",
+      "subCateList": [{
+          "title": "居家生活新品",
+          "image": "https://yanxuan-item.nosdn.127.net/6b1f7d38b92d931766e2a36e79abcfc6.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "服饰鞋包新品",
+          "image": "https://yanxuan-item.nosdn.127.net/c76d77c9c3c7646c060583a618d2bf3b.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "美食酒水新品",
+          "image": "https://yanxuan-item.nosdn.127.net/5a9a795e89f788c2a7b6939a7a61e994.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "个护清洁新品",
+          "image": "https://yanxuan-item.nosdn.127.net/2c2f14d521813d827e57b2513ca5b096.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "运动旅行新品",
+          "image": "https://yanxuan-item.nosdn.127.net/a141a036aabbce3c00f2222e66203826.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "母婴亲子新品",
+          "image": "https://yanxuan-item.nosdn.127.net/c0c0000d33807d1a1852924232c6124a.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "数码家电新品",
+          "image": "https://yanxuan-item.nosdn.127.net/81158d6f8fc9df0c04b1ddd229c3f503.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "全球特色新品",
+          "image": "https://yanxuan-item.nosdn.127.net/89b1318c37d97bd838fade6964edcde9.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    },
+    {
+      "name": "推荐专区",
+      "subCateList": [{
+          "title": "明星商品",
+          "image": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "精选美食",
+          "image": "https://yanxuan.nosdn.127.net/a91deb0e8592ea6c5e402d71eadc6a64.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "男装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/3e52cf9e7db8ff6eb442b83043ae44ce.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "员工精选好货",
+          "image": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "女装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/fcbe22542c091f31d6a22a7e921edc8f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "秋季换新好物",
+          "image": "https://yanxuan.nosdn.127.net/c64660221bf28ededa6ba330dc5ddbf5.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "50元幸福好物",
+          "image": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "家装好物推荐",
+          "image": "https://yanxuan.nosdn.127.net/33fbf26f90d8b8a470cfe4fcfc2f5fe8.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "999+好评",
+          "image": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    }, 
+    {
+      "name": "换季专区",
+      "subCateList": [{
+          "title": "滋补美食",
+          "image": "https://yanxuan.nosdn.127.net/15a0f224de139e533a01d61dade82f5f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "精选美食",
+          "image": "https://yanxuan.nosdn.127.net/a91deb0e8592ea6c5e402d71eadc6a64.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "男装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/3e52cf9e7db8ff6eb442b83043ae44ce.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "员工精选好货",
+          "image": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "女装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/fcbe22542c091f31d6a22a7e921edc8f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "秋季换新好物",
+          "image": "https://yanxuan.nosdn.127.net/c64660221bf28ededa6ba330dc5ddbf5.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "50元幸福好物",
+          "image": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "家装好物推荐",
+          "image": "https://yanxuan.nosdn.127.net/33fbf26f90d8b8a470cfe4fcfc2f5fe8.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "999+好评",
+          "image": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    }, 
+    {
+      "name": "爆品专区",
+      "subCateList": [{
+          "title": "明星商品",
+          "image": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "精选美食",
+          "image": "https://yanxuan.nosdn.127.net/a91deb0e8592ea6c5e402d71eadc6a64.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "男装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/3e52cf9e7db8ff6eb442b83043ae44ce.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "员工精选好货",
+          "image": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "女装季末特惠",
+          "image": "https://yanxuan.nosdn.127.net/fcbe22542c091f31d6a22a7e921edc8f.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "秋季换新好物",
+          "image": "https://yanxuan.nosdn.127.net/c64660221bf28ededa6ba330dc5ddbf5.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "50元幸福好物",
+          "image": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "家装好物推荐",
+          "image": "https://yanxuan.nosdn.127.net/33fbf26f90d8b8a470cfe4fcfc2f5fe8.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "999+好评",
+          "image": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    }, 
+    {
+      "name": "新品专区",
+      "subCateList": [{
+          "title": "居家生活新品",
+          "image": "https://yanxuan-item.nosdn.127.net/6b1f7d38b92d931766e2a36e79abcfc6.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "服饰鞋包新品",
+          "image": "https://yanxuan-item.nosdn.127.net/c76d77c9c3c7646c060583a618d2bf3b.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "美食酒水新品",
+          "image": "https://yanxuan-item.nosdn.127.net/5a9a795e89f788c2a7b6939a7a61e994.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "个护清洁新品",
+          "image": "https://yanxuan-item.nosdn.127.net/2c2f14d521813d827e57b2513ca5b096.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "运动旅行新品",
+          "image": "https://yanxuan-item.nosdn.127.net/a141a036aabbce3c00f2222e66203826.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "母婴亲子新品",
+          "image": "https://yanxuan-item.nosdn.127.net/c0c0000d33807d1a1852924232c6124a.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "数码家电新品",
+          "image": "https://yanxuan-item.nosdn.127.net/81158d6f8fc9df0c04b1ddd229c3f503.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+          "title": "全球特色新品",
+          "image": "https://yanxuan-item.nosdn.127.net/89b1318c37d97bd838fade6964edcde9.png?imageView&quality=85&thumbnail=144x144"
+        }
+      ]
+    }
+  ]
+}
